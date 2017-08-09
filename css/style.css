@@ -1,0 +1,28 @@
+.woo-product-discount img {
+    width: auto;
+    max-width: 200px !important;
+}
+
+.woo-prod-item {
+    float: left;
+    width: 20%;
+    height: 280px;
+    border: solid 1px #CCC;
+    margin: 2px;
+    padding: 2px;
+}
+
+.woo-prod-img {
+    height: 215px;
+    overflow: hidden;
+}
+
+.add-cart-btn {
+    font-size: 12px;
+    /* background: gray; */
+    /* color: white; */
+    border: solid 1px #CCC;
+    width: 37%;
+    text-align: center;
+    border-radius: 4px;
+}
